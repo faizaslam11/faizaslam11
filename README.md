@@ -1,4 +1,4 @@
-### Hey, I'm Faiz aka bigbash 👋
+### Hey, I'm Faiz AKA bigbash 👋
 
 - 🔭 I’m currently working on python, JavaScript and there Frameworks
 - 🌱 I’m currently learning OpenCV, Loves Frontend
