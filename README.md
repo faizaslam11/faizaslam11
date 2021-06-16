@@ -7,6 +7,6 @@
 - 💬 Ask me about anything you don't get on Google.
 - 📫 How to reach me: Insta . itz_faiz_aslam, Discord . bigbash#0998
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am bathroom Singer, love to play Football
+<!-- - ⚡ Fun fact:  -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizaslam11&&show_icons=true">
