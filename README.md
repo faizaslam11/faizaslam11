@@ -1,7 +1,7 @@
 ### Hey, I'm Faiz AKA bigbash 👋
 
 - 🔭 I’m currently working on python, JavaScript and there Frameworks
-- 🌱 I’m currently learning OpenCV.
+- 🌱 I’m currently taking help with Tim.
 - 👯 I’m looking to collaborate on ML projects, Websites and designing repos.
 - 🤔 I’m looking for help in Vue.js!
 - 💬 Ask me about anything you don't get on Google.
