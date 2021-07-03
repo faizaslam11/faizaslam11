@@ -11,6 +11,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizaslam11&&show_icons=true">
 
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizaslam11&" alt="faizaslam" /></p>
 
 
@@ -24,16 +31,9 @@
 #### Top Technologies
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Html Badge](https://img.shields.io/badge/-Html-F0DB4F?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=django&logoColor=3C873A)](#)
 
 
 <br />
-<br />
-
-#### EXTRAS INFOS
-- :paperclip: [My Resume/CV](#Downloads/MyCV)
-
-
-
 </details>
