@@ -32,7 +32,7 @@
 <br />
 
 #### EXTRAS INFOS
-- :paperclip: [My Resume/CV](#)
+- :paperclip: [My Resume/CV](#Downloads/MyCV)
 
 
 
