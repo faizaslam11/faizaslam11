@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ML projects, Websites and designing repos.
 - 🤔 I’m looking for help in AWS!
 - 💬 Ask me about anything you don't get on Google.
-- 📫 How to reach me: Insta . itz_faiz_aslam, Discord . bigbash#0998
+- 📫 How to reach me: Insta . faiz__aslam_, Discord . bigbash#0998
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact:  -->
 
