@@ -1,9 +1,9 @@
 ### Hey, I'm Faiz AKA bigbash 👋
 
-- 🔭 I’m currently working on python, JavaScript, Java and their Frameworks
-- 🌱 I’m currently taking help with Internet.
-- 👯 I’m looking to collaborate on ML projects, Websites and designing repos.
-- 🤔 I’m looking for help in AWS!
+- 🔭 I’m currently working on Microservices, Cloud dev and many more.
+<!-- - 🌱 I’m currently taking help with  -->
+- 👯 I’m looking to collaborate on Java, Python projects.
+<!-- - 🤔 I’m looking for help in AWS! -->
 - 💬 Ask me about anything you don't get on Google.
 - 📫 How to reach me: Insta . faiz__aslam_, Discord . bigbash#0998
 - 😄 Pronouns: He/His
@@ -31,6 +31,7 @@
 #### Top Technologies
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Java Badge](https://img.shields.io/badge/-springboot-red?style=for-the-badge&labelColor=red&logo=springboot&logoColor=black)](#)
 [![Html Badge](https://img.shields.io/badge/-Html-F0DB4F?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=django&logoColor=3C873A)](#)
 [![Java Badge](https://img.shields.io/badge/-java-red?style=for-the-badge&labelColor=black&logo=java&logoColor=red)](#)
