@@ -35,7 +35,8 @@
 [![Html Badge](https://img.shields.io/badge/-Html-F0DB4F?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=django&logoColor=3C873A)](#)
 [![Java Badge](https://img.shields.io/badge/-java-red?style=for-the-badge&labelColor=black&logo=java&logoColor=red)](#)
-
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaslam11&langs_count=16&theme=highcontrast" width="35%" height="100%"/>
 
 <br />
 </details>
