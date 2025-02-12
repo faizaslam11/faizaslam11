@@ -1,5 +1,5 @@
 ### Hey, I'm Faiz AKA bigbash 👋
-
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 🔭 I’m currently working on Microservices, Cloud dev and many more.
 <!-- - 🌱 I’m currently taking help with  -->
 - 👯 I’m looking to collaborate on Java, Python projects.
