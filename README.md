@@ -1,13 +1,19 @@
 ### Hey, I'm Faiz AKA bigbash 👋
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<br>
 - 🔭 I’m currently working on Microservices, Cloud dev and many more.
 <!-- - 🌱 I’m currently taking help with  -->
+<br>
 - 👯 I’m looking to collaborate on Java, Python projects.
+<br>
 <!-- - 🤔 I’m looking for help in AWS! -->
 - 💬 Ask me about anything you don't get on Google.
+<br>
 - 📫 How to reach me: Insta . faiz__aslam_, Discord . bigbash#0998
+<br>
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact:  -->
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizaslam11&&show_icons=true">
 
@@ -18,7 +24,8 @@
   More stuff about me
 </summary>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizaslam11&" alt="faizaslam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizaslam11" alt="faizaslam" /></p>
+
 
 
 
