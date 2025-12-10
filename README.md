@@ -11,7 +11,7 @@
 <br>
 - 📫 How to reach me: Insta . faiz__aslam_, Discord . bigbash#0998
 <br>
-- 😄 Pronouns: He/His
+<!-- - 😄 Pronouns: He/His -->
 <!-- - ⚡ Fun fact:  -->
 <br>
 
